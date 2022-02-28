@@ -84,7 +84,7 @@
   </div>
 </template>
 
-<script>
+<script type="module">
 import gsap from 'gsap'
 import { MorphSVGPlugin } from 'gsap/MorphSVGPlugin'
 
